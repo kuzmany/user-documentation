@@ -31,7 +31,7 @@ Once turned on, the 'Save as Draft' button appears on the Landing Page edit inte
 
 .. image:: images/landing_pages/save-draft.png
   :width: 400
-  :alt: Screenshot showing the 'Save as Draft' button on the landing page edit page.
+  :alt: Screenshot showing the 'Save as Draft' button on the Landing Page edit page.
 
 Only one Draft at a time can exist for any given Landing Page. When working with a Draft, the 'Save as draft' button instead displays two buttons, 'Apply Draft' and 'Discard Draft'.
 
