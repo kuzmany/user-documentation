@@ -11,11 +11,11 @@ Customizing the Preference Center
 
 .. vale off
 
-Landing Page Drafts
-============
+Landing Page drafts
+*******************
 
 Creating a draft Landing Page
------------------------------
+=============================
 
 .. vale on
 
@@ -31,24 +31,24 @@ Once turned on, the 'Save as Draft' button appears on the Landing Page edit inte
 
 .. image:: images/landing_pages/save-draft.png
   :width: 400
-  :alt: Screenshot showing the 'Save as Draft' button on the Landing Page edit page.
+  :alt: Screenshot showing the 'Save as Draft' button on the Landing Page edit interface.
 
-Only one Draft at a time can exist for any given Landing Page. When working with a Draft, the 'Save as draft' button instead displays two buttons, 'Apply Draft' and 'Discard Draft'.
+Only one Draft at a time can exist for any given Landing Page. When working with a Draft, the 'Save as Draft' button instead displays two buttons, 'Apply Draft' and 'Discard Draft'.
 
 .. image:: images/landing_pages/apply-draft.png
   :width: 400
   :alt: Screenshot showing the 'Apply Draft' and 'Discard Draft' buttons on the Landing Page edit interface.
 
-An Landing Page Draft allows changes to the content of the Landing Page only. Changes to the Subject, Internal Name, selected Segment, etc. apply to the original Landing Page even when editing a Draft version of it. The Draft content exists separately from the original Landing Page.
+You can only change the content of the Landing Page itself when it's in Draft. Changes to the Subject, Internal Name, selected Segment, etc. apply to the original Landing Page even when editing a Draft version of it. The Draft content exists separately from the original Landing Page.
 
 .. vale off
 
 Previewing a Draft Landing Page
--------------------------------
+===============================
 
-.. val on
+.. vale on
 
-An Landing Page Draft may be previewed by appending ``/draft`` to the end of the Landing Page preview URL. If an Landing Page has a Draft version, a Draft Preview URL will be present on the Landing Page details page below the regular Preview URL.
+You can preview a Landing Page Draft may by appending ``/draft`` to the end of the Landing Page preview URL. If an Landing Page has a Draft version, a Draft Preview URL is present on the Landing Page details overview, below the regular Preview URL.
 
 .. image:: images/landing_pages/preview-draft.png
   :width: 400
