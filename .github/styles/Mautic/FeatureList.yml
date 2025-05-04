@@ -45,8 +45,12 @@ swap:
   point actions: Point Actions
   point triggers: Point Triggers
   points: Points
+  point group: Point Group
+  point groups: Point Groups
   plugin: Plugin
   plugins: Plugins
+  publish: Activate or Turn On
+  published: Active or Available
   report: Report
   reports: Reports
   role: Role
@@ -57,6 +61,8 @@ swap:
   stages: Stages
   theme: Theme
   themes: Themes
+  unpublish: Deactivate or Turn Off
+  unpublished: Unavailable or Deactivated
   user: User
   users: Users
   webhook: Webhook

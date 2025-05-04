@@ -43,8 +43,8 @@ Here are some search operators you can use:
 
 * ``%`` - Use the % as a wildcard to search for specific names or values in a phrase for example, to find all Companies with the word ‘Technologies’ then type %technologies%
   
-Search filters
-==============
+Search operators filters
+========================
 
 Here are some search filters you can use:
 
@@ -169,7 +169,7 @@ Emails search filters
     category:{category alias}
     lang:{lang code}
 
-Focus items search filters
+Focus Items search filters
 --------------------------
 
 .. code-block:: 
